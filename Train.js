@@ -75,4 +75,4 @@ return;
 if (inputTainNumber==sender) {
 replier.reply(getTainInfo(msg));
 }
-}양쪽
+}
